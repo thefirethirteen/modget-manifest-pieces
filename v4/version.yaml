@@ -6,16 +6,16 @@
       server: 
       client: 
     bundles:
-      - package:
+      - package: 
         version: ""
     depends:
-      - package:
+      - package: 
         version: ""
     breaks:
       - package: 
         version: ""
     recommends:
-      - package:
+      - package: 
         version: ""
     minecraftVersions:
       - 
