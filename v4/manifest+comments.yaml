@@ -7,7 +7,7 @@ iconUrls:
   - link3
 name: 
 description: 
-home: 
+home: // if fabric.mod.json doesn't have one, use Modrinth page > Curseforge page > GitHub page
 source: 
 issues: 
 wiki: 
