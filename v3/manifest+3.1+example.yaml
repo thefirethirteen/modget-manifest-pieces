@@ -1,0 +1,60 @@
+manifestSpecVersion: 3.1
+publisher: thefirethirteen
+id: example
+loader:
+  - fabric
+modType: jar
+side: both
+name: Manifest Spec Example Mod
+description: An example mod to showcase a modget manifest spec.
+license: LGPL-3.0-or-later
+home: https://thefirethirteen.com/example
+source: https://github.com/thefirethirteen/example
+issues: https://github.com/thefirethirteen/example/issues
+wiki: https://github.com/thefirethirteen/example/wiki
+support: https://thefirethirteen.com/example/support
+chat:
+  - https://discord.gg/nVDXfCRyMk
+depends:
+  - package: ReviversMC.modget
+    version: "*"
+breaks:
+  - package: Chocohead.optifabric
+    version: "*"
+recommends:
+  - package: CaffeineMC.sodium
+    version: "*"
+thirdPartyIds:
+  modrinth: Ab1Cd2Ef
+  curseforge: 123456 
+downloads:
+  - version: 1.0.0
+    loader:
+      - fabric
+    depends:
+      - package: ReviversMC.modget
+        version: "*"
+    breaks:
+      - package: Chocohead.optifabric
+        version: "*"
+    recommends:
+      - package: CaffeineMC.sodium
+        version: "*"
+    minecraftVersions:
+      - 1.16.5
+      - 1.19.0
+    md5: 20b9f37254b223f7384e29ff18835485
+    downloadPageUrls:
+      - name: Modrinth
+        url: 
+      - name: GitHub
+        url:
+      - name: CurseForge
+        url:
+    fileUrls:
+      - name: Modrinth
+        url:
+      - name: GitHub
+        url:
+      - name: CurseForge
+        url:
