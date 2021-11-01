@@ -1,0 +1,31 @@
+  - loaders:
+      - 
+    fileType: 
+    license: 
+    sides:
+      server: 
+      client: 
+    breaks:
+      - package: 
+        version: ""
+    minecraftVersions:
+      - 
+    channel: 
+    thirdPartyIds:
+      modrinth: 
+      curseforge: 
+    md5: 
+    downloadPageUrls:
+      - name: Modrinth
+        url: 
+      - name: GitHub
+        url: 
+      - name: CurseForge
+        url: 
+    fileUrls:
+      - name: Modrinth
+        url: 
+      - name: GitHub
+        url: 
+      - name: CurseForge
+        url: 
