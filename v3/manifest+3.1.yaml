@@ -1,0 +1,56 @@
+manifestSpecVersion: 
+publisher: 
+id: 
+loader:
+  - 
+modType: 
+side: 
+name: 
+description:  
+license: 
+home: 
+source: 
+issues: 
+wiki: 
+support: 
+chat: 
+depends:
+  - package: 
+    version: ""
+breaks:
+  - package: 
+    version: ""
+recommends:
+  - package: 
+    version: ""
+thirdPartyIds:
+downloads:
+  - version: 
+    loader:
+      -
+    depends:
+      - package: 
+        version: ""
+    breaks:
+      - package: 
+        version: ""
+    recommends:
+      - package: 
+        version: ""
+    minecraftVersions:
+      - 
+    md5: 
+    downloadPageUrls:
+      - name: Modrinth
+        url: 
+      - name: GitHub
+        url:
+      - name: CurseForge
+        url:
+    fileUrls:
+      - name: Modrinth
+        url:
+      - name: GitHub
+        url:
+      - name: CurseForge
+        url:
