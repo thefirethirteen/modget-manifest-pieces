@@ -3,7 +3,7 @@ publisher:
 id: 
 iconUrls:
   - link1 // from best to worst quality, else Modrinth > CurseForge > GitHub/GitLab/etc.
-  - link2
+  - link2 // else Fabric > Forge > Liteloader
   - link3
 name: 
 description: 
