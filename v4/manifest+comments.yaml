@@ -1,0 +1,19 @@
+manifestSpecVersion: 4
+publisher: 
+id: 
+iconUrls:
+  - link1 // from best to worst quality, else Modrinth > CurseForge > GitHub/GitLab/etc.
+  - link2
+  - link3
+name: 
+description: 
+home: 
+source: 
+issues: 
+wiki: 
+chats:
+  - link1
+  - link2
+versions:
+  - version+comments
+  - version
