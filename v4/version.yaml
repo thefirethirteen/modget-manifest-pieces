@@ -5,8 +5,17 @@
     sides:
       server: 
       client: 
+    bundles:
+      - package:
+        version: ""
+    depends:
+      - package:
+        version: ""
     breaks:
       - package: 
+        version: ""
+    recommends:
+      - package:
         version: ""
     minecraftVersions:
       - 
