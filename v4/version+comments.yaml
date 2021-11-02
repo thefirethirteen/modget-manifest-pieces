@@ -1,6 +1,6 @@
   - loaders:
       - fabric
-    fileType: // jar, usually
+    fileType: # jar, usually
     license: 
     sides:
       server: 
@@ -19,7 +19,7 @@
         version: ""
     minecraftVersions:
       - version
-    channel: // release channel
+    channel: # release channel
     thirdPartyIds:
       modrinth: 
       curseforge: 
@@ -37,10 +37,10 @@
       - name: GitHub
         url: 
       - name: CurseForge
-        url: // append /file to all curseforge download links to get a direct download link
+        url: # append /file to all curseforge download links to get a direct download link
   - loaders:
       - forge
-    fileType: // jar, usually
+    fileType: # jar, usually
     license: 
     sides:
       server: 
@@ -59,7 +59,7 @@
         version: ""
     minecraftVersions:
       - version
-    channel: // release channel
+    channel: # release channel
     thirdPartyIds:
       modrinth: 
       curseforge: 
@@ -77,11 +77,11 @@
       - name: GitHub
         url: 
       - name: CurseForge
-        url: // append /file to all curseforge download links to get a direct download link
+        url: # append /file to all curseforge download links to get a direct download link
   - loaders:
       - fabric
       - forge
-    fileType: // jar, usually
+    fileType: # jar, usually
     license: 
     sides:
       server: 
@@ -100,7 +100,7 @@
         version: ""
     minecraftVersions:
       - version
-    channel: // release channel
+    channel: # release channel
     thirdPartyIds:
       modrinth: 
       curseforge: 
@@ -118,4 +118,4 @@
       - name: GitHub
         url: 
       - name: CurseForge
-        url: // append /file to all curseforge download links to get a direct download link
+        url: # append /file to all curseforge download links to get a direct download link
