@@ -2,12 +2,12 @@ manifestSpecVersion: 4
 publisher: 
 id: 
 iconUrls:
-  - link1 // from best to worst quality, else Modrinth > CurseForge > GitHub/GitLab/etc.
-  - link2 // else Fabric > Forge > Liteloader
+  - link1 # from best to worst quality, else Modrinth > CurseForge > GitHub/GitLab/etc.
+  - link2 # else Fabric > Forge > Liteloader
   - link3
 name: 
 description: 
-home: // if fabric.mod.json doesn't have one, use Modrinth page > Curseforge page > GitHub page
+home: # if fabric.mod.json doesn't have one, use Modrinth page > Curseforge page > GitHub page
 source: 
 issues: 
 wiki: 
