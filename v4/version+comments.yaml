@@ -1,17 +1,14 @@
   - loaders:
       - fabric
-    fileType: # jar, usually
-    license: 
-    sides:
+    minecraftVersions:
+      - version
+    environment:
       server: 
       client: 
-    bundles:
-      - package: 
-        version: ""
     depends:
       - package: 
         version: ""
-    recommends:
+    bundles:
       - package: 
         version: ""
     breaks:
@@ -20,22 +17,25 @@
     conflicts:
       - package: 
         version: ""
-    minecraftVersions:
-      - version
+    recommends:
+      - package: 
+        version: ""
     channel: # release channel
     thirdPartyIds:
       modrinth: 
       curseforge: 
+    license: 
+    fileType: # jar, usually
     md5: 
     downloadPageUrls:
-      modrinth: 
+      modrinth: # use `~` if it doesn't exist
       curseforge: 
       sourceControl: 
       other:
         - name:
           url:
     fileUrls:
-      modrinth: 
+      modrinth: # use `~` if it doesn't exist
       curseforge: # append /file to all curseforge download links to get a direct download link
       sourceControl: 
       other:
@@ -43,18 +43,15 @@
           url:
   - loaders:
       - forge
-    fileType: # jar, usually
-    license: 
-    sides:
+    minecraftVersions:
+      - version
+    environment:
       server: 
       client: 
-    bundles:
-      - package: 
-        version: ""
     depends:
       - package: 
         version: ""
-    recommends:
+    bundles:
       - package: 
         version: ""
     breaks:
@@ -63,22 +60,25 @@
     conflicts:
       - package: 
         version: ""
-    minecraftVersions:
-      - version
+    recommends:
+      - package: 
+        version: ""
     channel: # release channel
     thirdPartyIds:
       modrinth: 
       curseforge: 
+    license: 
+    fileType: # jar, usually
     md5: 
     downloadPageUrls:
-      modrinth: 
+      modrinth: # use `~` if it doesn't exist
       curseforge: 
       sourceControl: 
       other:
         - name:
           url:
     fileUrls:
-      modrinth: 
+      modrinth: # use `~` if it doesn't exist
       curseforge: # append /file to all curseforge download links to get a direct download link
       sourceControl: 
       other:
@@ -87,18 +87,15 @@
   - loaders:
       - fabric
       - forge
-    fileType: # jar, usually
-    license: 
-    sides:
+    minecraftVersions:
+      - version
+    environment:
       server: 
       client: 
-    bundles:
-      - package: 
-        version: ""
     depends:
       - package: 
         version: ""
-    recommends:
+    bundles:
       - package: 
         version: ""
     breaks:
@@ -107,22 +104,25 @@
     conflicts:
       - package: 
         version: ""
-    minecraftVersions:
-      - version
+    recommends:
+      - package: 
+        version: ""
     channel: # release channel
     thirdPartyIds:
       modrinth: 
       curseforge: 
+    license: 
+    fileType: # jar, usually
     md5: 
     downloadPageUrls:
-      modrinth: 
+      modrinth: # use `~` if it doesn't exist
       curseforge: 
       sourceControl: 
       other:
         - name:
           url:
     fileUrls:
-      modrinth: 
+      modrinth: # use `~` if it doesn't exist
       curseforge: # append /file to all curseforge download links to get a direct download link
       sourceControl: 
       other:
