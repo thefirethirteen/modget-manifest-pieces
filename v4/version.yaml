@@ -28,16 +28,16 @@
     fileType: 
     md5: 
     downloadPageUrls:
-      - name: Modrinth
-        url: 
-      - name: GitHub
-        url: 
-      - name: CurseForge
-        url: 
+      modrinth: 
+      curseforge: 
+      sourceControl: 
+      other:
+        - name:
+          url:
     fileUrls:
-      - name: Modrinth
-        url: 
-      - name: GitHub
-        url: 
-      - name: CurseForge
-        url: 
+      modrinth: 
+      curseforge: 
+      sourceControl: 
+      other:
+        - name:
+          url:
