@@ -1,17 +1,15 @@
   - loaders:
       - 
-    fileType: 
-    license: 
-    sides:
+    minecraftVersions:
+      - 
+    environment:
       server: 
       client: 
-    bundles:
-      - package: 
-        version: ""
+    channel: 
     depends:
       - package: 
         version: ""
-    recommends:
+    bundles:
       - package: 
         version: ""
     breaks:
@@ -20,12 +18,14 @@
     conflicts:
       - package: 
         version: ""
-    minecraftVersions:
-      - 
-    channel: 
+    recommends:
+      - package: 
+        version: ""
     thirdPartyIds:
       modrinth: 
       curseforge: 
+    license: 
+    fileType: 
     md5: 
     downloadPageUrls:
       - name: Modrinth
