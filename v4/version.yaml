@@ -11,10 +11,13 @@
     depends:
       - package: 
         version: ""
+    recommends:
+      - package: 
+        version: ""
     breaks:
       - package: 
         version: ""
-    recommends:
+    conflicts:
       - package: 
         version: ""
     minecraftVersions:
