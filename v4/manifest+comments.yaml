@@ -15,8 +15,11 @@ source:
 issues: 
 wiki: 
 chats:
-  - link1
-  - link2
+  discord: discord_link
+  irc: irc_link
+  other:
+    - name: Platform1
+      url: platform1_link
 versions:
   - version+comments
   - version
