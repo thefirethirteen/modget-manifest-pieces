@@ -6,16 +6,19 @@
       server: 
       client: 
     bundles:
-      - package:
+      - package: 
         version: ""
     depends:
-      - package:
+      - package: 
+        version: ""
+    recommends:
+      - package: 
         version: ""
     breaks:
       - package: 
         version: ""
-    recommends:
-      - package:
+    conflicts:
+      - package: 
         version: ""
     minecraftVersions:
       - version
@@ -46,16 +49,19 @@
       server: 
       client: 
     bundles:
-      - package:
+      - package: 
         version: ""
     depends:
-      - package:
+      - package: 
+        version: ""
+    recommends:
+      - package: 
         version: ""
     breaks:
       - package: 
         version: ""
-    recommends:
-      - package:
+    conflicts:
+      - package: 
         version: ""
     minecraftVersions:
       - version
@@ -87,16 +93,19 @@
       server: 
       client: 
     bundles:
-      - package:
+      - package: 
         version: ""
     depends:
-      - package:
+      - package: 
+        version: ""
+    recommends:
+      - package: 
         version: ""
     breaks:
       - package: 
         version: ""
-    recommends:
-      - package:
+    conflicts:
+      - package: 
         version: ""
     minecraftVersions:
       - version
