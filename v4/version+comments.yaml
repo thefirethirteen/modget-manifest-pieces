@@ -28,19 +28,19 @@
       curseforge: 
     md5: 
     downloadPageUrls:
-      - name: Modrinth
-        url: 
-      - name: GitHub
-        url: 
-      - name: CurseForge
-        url: 
+      modrinth: 
+      curseforge: 
+      sourceControl: 
+      other:
+        - name:
+          url:
     fileUrls:
-      - name: Modrinth
-        url: 
-      - name: GitHub
-        url: 
-      - name: CurseForge
-        url: # append /file to all curseforge download links to get a direct download link
+      modrinth: 
+      curseforge: # append /file to all curseforge download links to get a direct download link
+      sourceControl: 
+      other:
+        - name:
+          url:
   - loaders:
       - forge
     fileType: # jar, usually
@@ -71,19 +71,19 @@
       curseforge: 
     md5: 
     downloadPageUrls:
-      - name: Modrinth
-        url: 
-      - name: GitHub
-        url: 
-      - name: CurseForge
-        url: 
+      modrinth: 
+      curseforge: 
+      sourceControl: 
+      other:
+        - name:
+          url:
     fileUrls:
-      - name: Modrinth
-        url: 
-      - name: GitHub
-        url: 
-      - name: CurseForge
-        url: # append /file to all curseforge download links to get a direct download link
+      modrinth: 
+      curseforge: # append /file to all curseforge download links to get a direct download link
+      sourceControl: 
+      other:
+        - name:
+          url:
   - loaders:
       - fabric
       - forge
@@ -115,16 +115,16 @@
       curseforge: 
     md5: 
     downloadPageUrls:
-      - name: Modrinth
-        url: 
-      - name: GitHub
-        url: 
-      - name: CurseForge
-        url: 
+      modrinth: 
+      curseforge: 
+      sourceControl: 
+      other:
+        - name:
+          url:
     fileUrls:
-      - name: Modrinth
-        url: 
-      - name: GitHub
-        url: 
-      - name: CurseForge
-        url: # append /file to all curseforge download links to get a direct download link
+      modrinth: 
+      curseforge: # append /file to all curseforge download links to get a direct download link
+      sourceControl: 
+      other:
+        - name:
+          url:
