@@ -11,7 +11,7 @@ authors:
   - name: author1
   - name: author2
 home: # if fabric.mod.json doesn't have one, use Modrinth page > Curseforge page > GitHub page
-source: 
+source: # use ~ or null if none
 issues: 
 support: 
 wiki: 
